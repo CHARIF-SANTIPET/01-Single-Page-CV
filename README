@@ -1,0 +1,49 @@
+# CHARIF SANTIPET - CV
+
+โปรเจกต์นี้เป็นเว็บไซต์ CV ออนไลน์ของ CHARIF SANTIPET ซึ่งแสดงทักษะ ประสบการณ์ และโปรเจกต์ต่าง ๆ ที่ทำไว้ในฐานะนักพัฒนาเว็บไซต์และเกม
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+โปรเจกต์นี้ทำเพื่อใช้เป็น **CV ออนไลน์** ซึ่งแสดงข้อมูลส่วนตัว ทักษะต่าง ๆ ประสบการณ์การศึกษา และโปรเจกต์ที่ได้ทำ
+
+## Skills
+- **Web Development**: HTML, CSS, JavaScript
+- **Game Development**: Unity, Csharp, .Net
+- **Tools**: Canva, Figma, Git, Docker
+- **Programming**: Python
+
+## Projects
+1. **Vending Machine (Arduino, Odroid)**: ระบบขายสินค้าด้วยเหรียญ
+2. **Clean Hunter (3D Unity Csharp)**: เกม FPS สะสมคะแนนด้วยการกำจัดมอนสเตอร์
+3. **Picture Gallery (.Net Blazor)**: ระบบแกลอรี่รูปภาพออนไลน์
+4. **Book Store Website (JavaScript, HTML, CSS)**: เว็บไซต์ร้านหนังสือออนไลน์
+5. **Kitchen Chaos (3D Unity Csharp)**: เกมเกี่ยวกับการทำอาหาร
+6. **Khorn Farm (2D Unity Csharp)**: เกมฟาร์มในมุมมอง 2D
+7. **Volt Guard (3D Unity Csharp)**: เกมป้องกันฐาน
+
+## Installation
+1. **Clone repository**: 
+    ```bash
+    git clone https://github.com/yourusername/charif-cv.git
+    ```
+
+## Usage
+- เปิดไฟล์ `index.html` ในเบราว์เซอร์เพื่อดูเว็บไซต์ CV ของ CHARIF SANTIPET
+
+## Contributing
+หากคุณต้องการช่วยพัฒนาหรือปรับปรุงโปรเจกต์นี้ โปรดทำตามขั้นตอนต่อไปนี้:
+1. Fork โปรเจกต์
+2. สร้าง branch ใหม่สำหรับฟีเจอร์หรือการแก้ไข
+3. สร้าง pull request เมื่อทำการเปลี่ยนแปลงเสร็จ
+
+## License
+โปรเจกต์นี้ใช้ลิขสิทธิ์ **MIT License**
+
