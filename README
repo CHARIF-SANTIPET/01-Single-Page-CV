@@ -1,6 +1,6 @@
 # CHARIF SANTIPET - CV
 
-โปรเจกต์นี้เป็นเว็บไซต์ CV ออนไลน์ของ CHARIF SANTIPET ซึ่งแสดงทักษะ ประสบการณ์ และโปรเจกต์ต่าง ๆ ที่ทำไว้ในฐานะนักพัฒนาเว็บไซต์และเกม
+This project is an online CV website for CHARIF SANTIPET, showcasing skills, experience, and various projects completed as a web and game developer.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,39 +11,41 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Roadmap.sh
+This project was created following the challenge on [roadmap.sh Single Page CV Project](https://roadmap.sh/projects/single-page-cv).
+
 ## Introduction
-โปรเจกต์นี้ทำเพื่อใช้เป็น **CV ออนไลน์** ซึ่งแสดงข้อมูลส่วนตัว ทักษะต่าง ๆ ประสบการณ์การศึกษา และโปรเจกต์ที่ได้ทำ
+This project is intended to serve as an **online CV** that displays personal information, skills, educational background, and projects completed.
 
 ## Skills
 - **Web Development**: HTML, CSS, JavaScript
-- **Game Development**: Unity, Csharp, .Net
+- **Game Development**: Unity, C#, .Net
 - **Tools**: Canva, Figma, Git, Docker
 - **Programming**: Python
 
 ## Projects
-1. **Vending Machine (Arduino, Odroid)**: ระบบขายสินค้าด้วยเหรียญ
-2. **Clean Hunter (3D Unity Csharp)**: เกม FPS สะสมคะแนนด้วยการกำจัดมอนสเตอร์
-3. **Picture Gallery (.Net Blazor)**: ระบบแกลอรี่รูปภาพออนไลน์
-4. **Book Store Website (JavaScript, HTML, CSS)**: เว็บไซต์ร้านหนังสือออนไลน์
-5. **Kitchen Chaos (3D Unity Csharp)**: เกมเกี่ยวกับการทำอาหาร
-6. **Khorn Farm (2D Unity Csharp)**: เกมฟาร์มในมุมมอง 2D
-7. **Volt Guard (3D Unity Csharp)**: เกมป้องกันฐาน
+1. **Vending Machine (Arduino, Odroid)**: A vending machine system using coins.
+2. **Clean Hunter (3D Unity C#)**: An FPS game where the player earns points by eliminating monsters.
+3. **Picture Gallery (.Net Blazor)**: An online picture gallery system.
+4. **Book Store Website (JavaScript, HTML, CSS)**: An online bookstore website.
+5. **Kitchen Chaos (3D Unity C#)**: A game focused on cooking.
+6. **Khorn Farm (2D Unity C#)**: A 2D farm simulation game.
+7. **Volt Guard (3D Unity C#)**: A tower defense game protecting a base.
 
 ## Installation
-1. **Clone repository**: 
+1. **Clone the repository**: 
     ```bash
     git clone https://github.com/yourusername/charif-cv.git
     ```
 
 ## Usage
-- เปิดไฟล์ `index.html` ในเบราว์เซอร์เพื่อดูเว็บไซต์ CV ของ CHARIF SANTIPET
+- Open the `index.html` file in a browser to view CHARIF SANTIPET's CV website.
 
 ## Contributing
-หากคุณต้องการช่วยพัฒนาหรือปรับปรุงโปรเจกต์นี้ โปรดทำตามขั้นตอนต่อไปนี้:
-1. Fork โปรเจกต์
-2. สร้าง branch ใหม่สำหรับฟีเจอร์หรือการแก้ไข
-3. สร้าง pull request เมื่อทำการเปลี่ยนแปลงเสร็จ
+If you'd like to contribute or improve this project, please follow these steps:
+1. Fork the project
+2. Create a new branch for your feature or fix
+3. Create a pull request once your changes are complete
 
 ## License
-โปรเจกต์นี้ใช้ลิขสิทธิ์ **MIT License**
-
+This project is licensed under the **MIT License**
