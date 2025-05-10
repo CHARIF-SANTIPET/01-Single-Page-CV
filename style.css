@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+:root {
+    --width-px:600px;
+}
+
+header {
+    border-top: solid;
+    width: var(--width-px);
+    margin: auto;
+    color:black;
+    
+}
+
+header > p {
+    color: green;
+    font-weight: bold;
+}
+
+main {
+    margin: auto;
+    width: var(--width-px);
+}
+address {
+    font-style: normal;
+}
+
